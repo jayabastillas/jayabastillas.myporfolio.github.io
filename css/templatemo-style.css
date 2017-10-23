@@ -213,9 +213,21 @@ button:focus { outline: none; }
 	margin: 10px auto 0;
 	width: 100%;		
 }
+.tm-img-gallery2 {
+	max-width: 860px;
+	margin: 10px auto 0;
+	width: 100%;		
+}
 
 .tm-img {
   	width: 280px;
+  	height: auto;
+  	border: 10px solid #ffffff;
+  	margin: 0 auto 10px;
+}
+
+.tm-img2 {
+  	width: 480px;
   	height: auto;
   	border: 10px solid #ffffff;
   	margin: 0 auto 10px;
